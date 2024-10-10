@@ -1,2 +1,1 @@
 1 - Inclui linha simulando alteração de arquivo.
-2 - Simula adicao de funcionalidade.
