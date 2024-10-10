@@ -1,2 +1,3 @@
 1 - Arquivo criado a partir do GitHub para treino.
-2 - Simula pequena alteracao no arquivo. 
+2 - Simula pequena alteracao no arquivo.
+3 - Simula acrescimo de funcionalidade. 
