@@ -1,0 +1,2 @@
+1 - Simula uma funcionalidade.
+2 - Cria alteração para simular git diff.
