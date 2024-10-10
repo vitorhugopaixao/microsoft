@@ -1,1 +1,2 @@
-1 - Arquivo criado a partir do GitHub como treino. 
+1 - Arquivo criado a partir do GitHub para treino.
+2 - Simula pequenalateracaoo no arquivo. 
