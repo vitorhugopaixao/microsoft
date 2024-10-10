@@ -1,3 +1,2 @@
 1 - Simula uma funcionalidade.
-2 - Cria alteracao para simular git diff.
-3 - Simula acrescimo de funcionalidade.
+2 - Cria alteração para simular git diff.
