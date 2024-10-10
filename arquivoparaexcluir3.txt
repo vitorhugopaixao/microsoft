@@ -1,0 +1,1 @@
+1 - adiciona funcionalidade para simular reversao.
