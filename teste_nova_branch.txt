@@ -1,1 +1,2 @@
 1 - Simula inclusao de nova funcionalidade.
+2 - simula inclusão de funcionalidade na branch remota.
