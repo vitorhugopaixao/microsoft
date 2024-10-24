@@ -1,1 +1,0 @@
-1 - Cria arquivoparaexcluir4.txt ao repositório microsoft.
