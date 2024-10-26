@@ -1,2 +1,0 @@
-# simula adicao de novo recurso ao arquivo.
-# simula altercao em arquivo.
