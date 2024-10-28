@@ -1,0 +1,1 @@
+# simula edicao deste arquivo para revisao de treinamento do git.
