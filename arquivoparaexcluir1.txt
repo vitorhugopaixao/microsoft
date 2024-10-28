@@ -1,1 +1,0 @@
-# simula pequena alteracao no arquivo para realizar atualizacao sem precisar de novo commit.
