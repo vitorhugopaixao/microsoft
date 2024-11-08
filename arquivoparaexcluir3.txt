@@ -1,5 +1,0 @@
-# simula criacao de arquivo.
-<<<<<<< HEAD
-# simula criacao de pequena alteracao no codigo
-=======
->>>>>>> 6f166716e1efa4e2bb8b864a171c678fd55a8591
